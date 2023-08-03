@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Om Ambarkar
 
-- 🌱 I’m currently learning BTech at NKOCET
+- 🌱 I’m currently working at TIAA INDIA as a software developer
+- 📚 I have completed my BTech at NKOCET in the field of CSE
 - 💞️ I’m looking to collaborate on a flutter project
 - 📫 How to reach me at om.ambarkar@gmail.com
 
