@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working at TIAA INDIA as a software developer
 - 📚 I have completed my BTech at NKOCET in the field of CSE
-- 💞️ I’m looking to collaborate on a flutter project
+- 💞️ I’m looking to collaborate on a spring boot, flutter project
 - 📫 How to reach me at om.ambarkar@gmail.com
 
   
